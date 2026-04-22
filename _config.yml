@@ -1,7 +1,7 @@
-title: My Musings
-description: An attempt to publish more
-url: "https://sandmanextraordinaire.github.io"  # your GitHub Pages URL for now
-baseurl: "/singularity"              # the name of your repo, or "" if it's username.github.io
+title: Musings
+description:
+url: "https://sandmanextraordinaire.github.io"
+baseurl: "/singularity"
 
 theme: minima
 
